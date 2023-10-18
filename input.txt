@@ -1,0 +1,9 @@
+parameter commission with activation  with scf file
+verify site is onair
+attach  the UE
+perform tthe start data transfer 
+detach ue
+check alarms
+
+
+
