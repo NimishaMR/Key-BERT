@@ -19,7 +19,10 @@ And here's how sentence transformer extracts embeddings to obtain keyphrases
 
 <img src="Media/sentencetransformers.png" width=400> 
 
-We obtained a 98% search accuracy on the model developed 
+Obtained a 98% search accuracy on the model developed 
+
+This work has been published as a research paper in the IEEE 4th Global Conference On Advancement In Technology 2023 - AIML Track
+Find the reference to the paper here: 
 
 
 
