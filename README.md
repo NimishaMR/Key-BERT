@@ -13,7 +13,7 @@ There are several proposed algorithms which successfully extract keywords from l
 
 Heres a diagram to represent what Key-BERT does with short texts and how Sentence Transformers Embedding model uses it as an underlying architecture
 
-<img src="Media/Keybert.png" width=400> 
+<img src="Media/Keybert2.png" width=400> 
 
 And here's how sentence transformer extracts embeddings to obtain keyphrases
 
