@@ -1,4 +1,3 @@
-# Key-BERT
 
 Welcome to the repository pertaining to my work on Keyword extraction from documents using semantic search , fuzzy logic and Sentence Transformers embedding models architecture using Key-BERT as the underlying architecture
 
@@ -21,8 +20,8 @@ And here's how sentence transformer extracts embeddings to obtain keyphrases
 
 Obtained a 98% search accuracy on the model developed 
 
-This work has been published as a research paper in the IEEE 4th Global Conference On Advancement In Technology 2023 - AIML Track
-Find the reference to the paper here: 
+          **This work has been published as a research paper in the IEEE 4th Global Conference On Advancement In Technology 2023 - AIML Track**
+          Find the reference to the paper here: 
 
 
 
